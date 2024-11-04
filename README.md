@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jean-baptiste marrec
 ============================================================================================================================================
 
-progammer
+I'm a junior progammer in Quimper { France }
 ---------
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [jeanbaptiste.marrec@gmail.com](mailto:jeanbaptiste.marrec@gmail.com)
-* 🧠  I'm learning django
+* 🧠  I'm learning django and neovim
 
 ### Skills
 
@@ -22,7 +22,6 @@ progammer
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Netsponge"><img src="https://github-readme-stats.vercel.app/api?username=Netsponge&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="Netsponge's GitHub stats" /></a>
 
@@ -31,3 +30,25 @@ progammer
 <a href="http://www.github.com/Netsponge"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Netsponge&bg_color=27272a&color=ffffff&line=6366f1&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Netsponge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netsponge&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<!--START_SECTION:chessStats-->
+
+name: Chess Stats Action
+
+on:
+  schedule:
+    - cron: '0 6 0 0' # Runs at 06:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your chess stats and games
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@master
+        with:
+          CHESS_USERNAME: <cobolruletheworld>
+
+<!--END_SECTION:chessStats-->
