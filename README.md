@@ -32,28 +32,6 @@ I'm a junior progammer living in Quimper { France }
 <a href="https://github.com/Netsponge" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netsponge&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<!--START_SECTION:chessStats-->
 
-name: Chess Stats Action
 
-on:
-  schedule:
-    - cron: '0 0 0 0' # Runs at 00:00 UTC every day
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update readme with your chess stats and games
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@master
-        with:
-          CHESS_USERNAME: <cobolruletheworld>
-
-          
-<!--END_SECTION:chessStats-->
-
-https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
-https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
 
