@@ -38,7 +38,7 @@ name: Chess Stats Action
 
 on:
   schedule:
-    - cron: '0 6 0 0' # Runs at 06:00 UTC every day
+    - cron: '0 0 0 0' # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
@@ -50,5 +50,7 @@ jobs:
       - uses: Balastrong/chess-stats-action@master
         with:
           CHESS_USERNAME: <cobolruletheworld>
+
+          https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
 
 <!--END_SECTION:chessStats-->
