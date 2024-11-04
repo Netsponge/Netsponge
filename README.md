@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jean-baptiste marrec
 ============================================================================================================================================
 
-I'm a junior progammer in Quimper { France }
+I'm a junior progammer living in Quimper { France }
 ---------
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [jeanbaptiste.marrec@gmail.com](mailto:jeanbaptiste.marrec@gmail.com)
 * 🧠  I'm learning django and neovim
-
+* I play chess and i'm a nerd guitar gear addict
 ### Skills
 
 
