@@ -51,6 +51,9 @@ jobs:
         with:
           CHESS_USERNAME: <cobolruletheworld>
 
-          https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
-
+          
 <!--END_SECTION:chessStats-->
+
+https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
+https://api.chess.com/pub/player/{cobolruletheworld}/games/archives
+
