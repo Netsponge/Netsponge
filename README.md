@@ -6,7 +6,7 @@ I'm a junior progammer living in { Quimper }
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [jeanbaptiste.marrec@gmail.com](mailto:jeanbaptiste.marrec@gmail.com)
-* 🧠  I'm learning django and neovim
+* 🧠  I'm learning django 
 * I play chess and i'm a nerd guitar gear addict
 ### Skills
 
