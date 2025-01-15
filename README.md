@@ -6,7 +6,7 @@ I'm progammer living in { Quimper }
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [jeanbaptiste.marrec@gmail.com](mailto:jeanbaptiste.marrec@gmail.com)
-* 🧠  I'm learning django and Cobol 
+* 🧠  I'm learning Python and Data Ingeering 
 * I play chess and i'm a nerd guitar gear addict
 ### Skills
 
