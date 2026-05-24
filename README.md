@@ -42,8 +42,6 @@ I reverse-engineer, rebuild, and make it mine.
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Netsponge"><img src="https://github-readme-stats.vercel.app/api?username=Netsponge&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true" alt="Netsponge's GitHub stats" /></a>
+![Netsponge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netsponge&show_icons=true&theme=tokyonight)
 
-<a href="http://www.github.com/Netsponge"><img src="https://streak-stats.demolab.com/?user=Netsponge&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Netsponge"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netsponge&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Netsponge&layout=compact&theme=tokyonight)
